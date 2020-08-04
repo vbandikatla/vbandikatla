@@ -11,7 +11,7 @@
   <img align="left" alt="Vaibhav's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br />
-<img align="right" width="200" height="200" src="/go.png">
+<img align="right" width="200" height="200" src="https://github.com/vbandikatla/vbandikatla/blob/master/go.png">
 
 ### I am Vaibhav Srivastav Bandikatla
 - A Distributed Systems & Open Source enthusiast.
