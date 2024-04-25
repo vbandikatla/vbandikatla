@@ -1,4 +1,4 @@
-## Hello World! <img src="https://github.com/vbandikatla/vbandikatla/blob/master/content/hi.gif" width="30px"></h2>
+## Hello World <img src="https://github.com/vbandikatla/vbandikatla/blob/master/content/hi.gif" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/vbandikatla/">
   <img align="left" alt="Vaibhav's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
