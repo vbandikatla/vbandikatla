@@ -13,7 +13,7 @@
 <br />
 <img align="right" width="420" height="333" src="https://github.com/vbandikatla/vbandikatla/blob/master/content/gopher.png">
 
-### I am Vaibhav Srivastav Bandikatla
+### I am Vaibhav
 
 **Languages and Tools:**  
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
